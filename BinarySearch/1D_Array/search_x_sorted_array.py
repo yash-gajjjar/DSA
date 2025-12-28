@@ -6,19 +6,15 @@ def search_binary(nums: list[int], target: int) -> int:
     high = len(nums) - 1
 
     while low <= high:
-        # Calculate the middle index
         mid = low + (high - low) // 2
         
-        # Check if the middle element is the target
         if nums[mid] == target:
             return mid
         
-        # If the target is greater, discard the left half
         elif nums[mid] < target:
             low = mid + 1
             
-        # If the target is smaller, discard the right half
-        else: # nums[mid] > target
+        else: 
             high = mid - 1
             
     return -1
