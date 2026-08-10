@@ -8,7 +8,10 @@ Here are the structured, easy-to-understand study notes covering all the topics 
 
 * **Algorithm:** A step-by-step design or strategy to solve a problem. It is written in plain language/pseudocode, independent of programming languages, hardware, or operating systems. Analyzed using **Priori Analysis**.
 
+
 * **Program:** An actual implementation of an algorithm using a specific programming language. It depends on language and hardware. Tested using **Posteriori Testing**.
+
+
 
 ---
 
