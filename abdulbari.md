@@ -1,6 +1,4 @@
-# Time & Space Complexity — Complete Easy-to-Understand Notes
-
-> **Source:** Your 65-page screenshot PDF. I have gone through the pages and converted the handwritten/video notes into a clean, structured study document. I have preserved the concepts, examples, formulas, and terminology from the source rather than replacing them with unrelated material. 
+# Time & Space Complexity 
 
 ---
 
